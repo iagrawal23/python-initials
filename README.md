@@ -1,2 +1,3 @@
 # python-initials
-some interesting programs that i made while learning python
+Some interesting programs that i made while learning python
+stay tuned for more such intresting programs
